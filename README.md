@@ -39,7 +39,7 @@ Each instance in the replaced dataset belongs to one of the following counterfac
 ## Data Format
 
 Each line in the `.jsonl` files is a JSON object representing one QA instance.  
-The data description is provided in README.markdown.
+The data description is provided in DataFormat.md.
 
 ## Citation
 
