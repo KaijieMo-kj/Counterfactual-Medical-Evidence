@@ -10,7 +10,7 @@ Kaijie Mo, Siddhartha Venkatayogi, Chantal Shaib, Ramez Kouzy, Wei Xu, Byron C. 
 
 **MedCounterFact** is a counterfactual medical question answering (QA) dataset designed to study how large language models (LLMs) respond to **implausible, adversarial, or unsafe medical evidence**.
 
-The dataset is constructed by systematically replacing real medical interventions in clinical comparison questions and supporting evidence with counterfactual alternatives.
+The dataset is constructed by systematically replacing real medical interventions in clinical comparison questions and supporting evidence with counterfactual alternatives. We will release the codebase and additional model outputs in a future update.
 
 
 ## Files
