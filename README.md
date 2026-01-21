@@ -4,7 +4,7 @@ This repository contains the **MedCounterFact** dataset, introduced in the paper
 
 **Faithfulness vs. Safety: Evaluating LLM Behavior Under Counterfactual Medical Evidence**  
 Kaijie Mo, Siddhartha Venkatayogi, Chantal Shaib, Ramez Kouzy, Wei Xu, Byron C. Wallace, Junyi Jessy Li  
-**Paper Link:** :https://arxiv.org/abs/2601.11886
+**Paper Link:** https://arxiv.org/abs/2601.11886
 
 
 ## Overview
