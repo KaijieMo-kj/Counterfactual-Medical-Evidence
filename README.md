@@ -4,9 +4,7 @@ This repository contains the **MedCounterFact** dataset, introduced in the paper
 
 **Faithfulness vs. Safety: Evaluating LLM Behavior Under Counterfactual Medical Evidence**  
 Kaijie Mo, Siddhartha Venkatayogi, Chantal Shaib, Ramez Kouzy, Wei Xu, Byron C. Wallace, Junyi Jessy Li  
-(Submitted Jan 2026)
 
----
 
 ## Overview
 
@@ -15,9 +13,8 @@ Kaijie Mo, Siddhartha Venkatayogi, Chantal Shaib, Ramez Kouzy, Wei Xu, Byron C. 
 The dataset is constructed by systematically replacing real medical interventions in clinical comparison questions and supporting evidence with counterfactual alternatives. This enables controlled evaluation of the trade-off between:
 
 - **Faithfulness** to provided evidence  
-- **Safety and plausibility awareness** in high-stakes medical settings
+- **Safety** in high-stakes medical settings
 
----
 
 ## Files
 
@@ -30,7 +27,6 @@ The dataset is constructed by systematically replacing real medical intervention
 - **`readme.markdown`**  
   Dataset documentation.
 
----
 
 ## Counterfactual Types
 
@@ -41,7 +37,6 @@ Each instance in the replaced dataset belongs to one of the following counterfac
 - **Non-medical**: entities unrelated to medicine  
 - **Toxic**: harmful or clearly unsafe substances  
 
----
 
 ## Data Format
 
