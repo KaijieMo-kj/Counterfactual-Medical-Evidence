@@ -19,7 +19,7 @@ The dataset is constructed by systematically replacing real medical intervention
 ## Files
 
 - **`MedCounterFact_original_data.jsonl`**  
-  The original medical QA instances derived from real-world randomized controlled trials, before counterfactual replacement.
+  The original medical QA instances derived from real-world randomized controlled trials, before counterfactual replacement (https://arxiv.org/abs/2505.22787)** (Polzak et al., 2025).
 
 - **`MedCounterFact_replaced_data.jsonl`**  
   The counterfactual version of the dataset, where medical interventions in both questions and evidence are replaced with counterfactual stimuli.
