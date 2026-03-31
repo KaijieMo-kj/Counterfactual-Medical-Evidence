@@ -6,7 +6,7 @@ This repository contains the **MedCounterFact** dataset, introduced in the paper
 Kaijie Mo, Siddhartha Venkatayogi, Chantal Shaib, Ramez Kouzy, Wei Xu, Byron C. Wallace, Junyi Jessy Li  
 **Paper Link:** https://arxiv.org/abs/2601.11886
 
-Version Update (March 2026): The dataset has been revised to correct minor issues identified in previous versions 
+**Version Update** (March 2026): The dataset has been revised to correct minor issues identified in previous versions 
 
 ## Overview
 
