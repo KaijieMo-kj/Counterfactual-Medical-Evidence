@@ -4,7 +4,7 @@ This repository contains the **MedCounterFact** dataset, introduced in the paper
 
 **Faithfulness vs. Safety: Evaluating LLM Behavior Under Counterfactual Medical Evidence**  
 Kaijie Mo, Siddhartha Venkatayogi, Chantal Shaib, Ramez Kouzy, Wei Xu, Byron C. Wallace, Junyi Jessy Li  
-**Paper Link:** https://arxiv.org/abs/2601.11886
+**Paper Link:** https://aclanthology.org/2026.findings-acl.1847/
 
 **Version Update** (March 2026): The dataset has been revised to correct minor issues identified in previous versions 
 
@@ -47,12 +47,26 @@ The data description is provided in DataFormat.md.
 If you use **MedCounterFact** in your research, please cite the following paper:
 
 ```bibtex
-@misc{mo2026faithfulnessvssafetyevaluating,
-  title        = {Faithfulness vs. Safety: Evaluating LLM Behavior Under Counterfactual Medical Evidence},
-  author       = {Mo, Kaijie and Venkatayogi, Siddhartha and Shaib, Chantal and Kouzy, Ramez and Xu, Wei and Wallace, Byron C. and Li, Junyi Jessy},
-  year         = {2026},
-  eprint       = {2601.11886},
-  archivePrefix= {arXiv},
-  primaryClass = {cs.CL},
-  url          = {https://arxiv.org/abs/2601.11886}
+@inproceedings{mo-etal-2026-faithfulness,
+    title = "Faithfulness vs. Safety: Evaluating {LLM} Behavior Under Counterfactual Medical Evidence",
+    author = "Mo, Kaijie  and
+      Venkatayogi, Siddhartha  and
+      Shaib, Chantal  and
+      Kouzy, Ramez  and
+      Xu, Wei  and
+      Wallace, Byron C  and
+      Li, Junyi Jessy",
+    editor = "Liakata, Maria  and
+      Moreira, Viviane P.  and
+      Zhang, Jiajun  and
+      Jurgens, David",
+    booktitle = "Findings of the {A}ssociation for {C}omputational {L}inguistics: {ACL} 2026",
+    month = jul,
+    year = "2026",
+    address = "San Diego, California, United States",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2026.findings-acl.1847/",
+    doi = "10.18653/v1/2026.findings-acl.1847",
+    pages = "37053--37081",
+    ISBN = "979-8-89176-395-1"
 }
